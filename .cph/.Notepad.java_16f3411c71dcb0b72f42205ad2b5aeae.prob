@@ -1,0 +1,1 @@
+{"name":"Local: Notepad","url":"/Users/visheshgatha/Desktop/CP/Notepad.java","tests":[{"id":1690569264212,"input":"6\n10\ncodeforces\n8\nlabacaba\n5\nuohhh\n16\nisthissuffixtree\n1\nx\n4\nmomo","output":"NO\nYES\nNO\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/visheshgatha/Desktop/CP/Notepad.java","group":"local","local":true}

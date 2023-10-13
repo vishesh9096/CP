@@ -1,0 +1,1 @@
+{"name":"Local: Rigged","url":"/Users/visheshgatha/Desktop/CP/Rigged.java","tests":[{"id":1695609723556,"input":"3\n4\n7 4\n9 3\n4 6\n2 2\n2\n4 6\n100 100\n2\n1337 3\n1337 3","output":"5\n-1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/visheshgatha/Desktop/CP/Rigged.java","group":"local","local":true}

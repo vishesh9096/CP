@@ -1,0 +1,1 @@
+{"name":"Local: NotaSubstring","url":"/Users/visheshgatha/Desktop/CP/NotaSubstring.java","tests":[{"id":1692284119775,"input":"4\n)(\n(()\n()\n))()","output":"YES\n(())\nYES\n()()()\nNO\nYES\n()(()())"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/visheshgatha/Desktop/CP/NotaSubstring.java","group":"local","local":true}
